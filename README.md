@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moudi</h1>
-<h3 align="center">A passionate comp sci sophomore, interested in cybersec and the cloud</h3>
+<h3 align="center">-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moudialameel&label=Profile%20views&color=0e75b6&style=flat" alt="moudialameel" /> </p>
 
