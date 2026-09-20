@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Moudi</h1>
 <p> Computer Science student, passionate about cybersecurity and learning about DevOps. Security+ certified. Trying to read Google's book about SRE </p> 
 
 
